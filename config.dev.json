@@ -38,9 +38,9 @@
   },
   "nickNameBot": "Dan bot",
   "authorName": "👑𝗠𝗟𝗗👑",
-  "authorFB": "https://m.me/100085261760009",
+  "authorFB": "https://www.facebook.com/profile.php?id=61560939960734",
   "authorEmail": "manosmith524@gmail.com",
-  "prefix": "*",
+  "prefix": "‡",
   "database": {
     "type": "sqlite",
     "uriMongodb": "",
